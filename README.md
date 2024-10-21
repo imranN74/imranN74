@@ -1,5 +1,5 @@
 # 👋 Hello, I'm imran!
-"I love coding"
+"I love coding",
 **I can do this all day.** - Steve Rogers
 
 ## 🚀 Current Project
@@ -13,7 +13,7 @@
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/imran-nazir-ansari-414a141b2/)
-- [Twitter](https://x.com/im__imu)
+- [X](https://x.com/im__imu)
 
 ## ✨ Fun Facts
 - I love exploring new technologies and frameworks.
