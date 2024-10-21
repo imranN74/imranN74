@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [imran]!
+# 👋 Hello, I'm imran!
 "I love coding"
 **I can do this all day.** - Steve Rogers
 
