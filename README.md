@@ -1,6 +1,6 @@
 # 👋 Hello, I'm imran!
 "I love coding",
-**I can do this all day.** - Steve Rogers
+**I can do this all day.** - "Steve Rogers"
 
 ## 🚀 Current Project
 **Joblytics**: Just wrapped up the backend; it’s a tool for job seekers. More details coming soon!
