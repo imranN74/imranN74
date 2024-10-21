@@ -12,8 +12,8 @@
 - **Others**: Git, GitHub, Agile Development, REST APIs, SQL
 
 ## 🌐 Connect with Me
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/imran-nazir-ansari-414a141b2/))
-- [Twitter]([your-twitter-url](https://x.com/im__imu))
+- [LinkedIn](https://www.linkedin.com/in/imran-nazir-ansari-414a141b2/)
+- [Twitter](https://x.com/im__imu)
 
 ## ✨ Fun Facts
 - I love exploring new technologies and frameworks.
