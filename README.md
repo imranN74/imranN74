@@ -1,6 +1,4 @@
 # 👋 Hello, I'm imran!
-"I love coding",
-**I can do this all day.** - "Steve Rogers"
 
 ## 🚀 Current Project
 **Joblytics**:it’s a tool for job seekers. Job seekers can track thier applications like in which companies they have applied, whats the status of each companies (Like - Applied, rejected, interview scheduled etc.). They can keep the note about "interview experience", questions asked, contact details of the companies ,short note about companies. etc.
@@ -18,7 +16,3 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/imran-nazir-ansari-414a141b2/)
 - [X](https://x.com/im__imu)
-
-## ✨ Fun Facts
-- I love exploring new technologies and frameworks.
-
