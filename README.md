@@ -27,6 +27,7 @@
 6. **Instant Updates:**
 
 - Changes made by one user are instantly reflected for all participants in the room.
+
   **Tech Stack :** React, Express, PosgreSQL, websockets
 
 ## 💻 Skills
