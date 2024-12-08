@@ -27,10 +27,11 @@
 6. **Instant Updates:**
 
 - Changes made by one user are instantly reflected for all participants in the room.
+  **Tech Stack :** React, Express, PosgreSQL, websockets
 
 ## 💻 Skills
 - **Programming Languages**: JavaScript, TypeScript, PHP, Laravel
-- **Web Technologies**: React, Node.js, Express.js, Tailwind CSS
+- **Web Technologies**: React, Node.js, Express.js, WebSockets, Tailwind CSS
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Others**: Git, GitHub, Agile Development, REST APIs, SQL
 
