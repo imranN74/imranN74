@@ -1,11 +1,32 @@
 # 👋 Hello, I'm imran!
 
 ## 🚀 Current Project
-**Joblytics**:it’s a tool for job seekers. Job seekers can track thier applications like in which companies they have applied, whats the status of each companies (Like - Applied, rejected, interview scheduled etc.). They can keep the note about "interview experience", questions asked, contact details of the companies ,short note about companies. etc.
+**SyncPAD**: A Real Time Text Editor.
+
 **Features:-**
-- user can create a job application with deatils like company name, applied date, role, status(applied,rejected, interview scheduled, etc)
-- user can set a reminder when he/she needs to follow up the company they'll recieve an email reminding them about follow ups etc..
-- and many more...
+1. **Real-Time Collaboration:**
+
+- Allows multiple users to edit the same text document simultaneously in real time.
+
+2. **Room-Based Collaboration:**
+
+- Users can create a unique "SyncPAD room" for private or group collaboration.
+
+3. **Shareable Access:**
+
+- A unique link is generated for each SyncPAD, which can be shared with friends or team members to join the same room.
+
+4. **Text Editing Capabilities:**
+
+- Users can write, edit, and format text in real time with live updates visible to all participants.
+
+5. **Collaborative Environment:**
+
+- Designed to foster teamwork by allowing users to brainstorm, edit documents, or take shared notes seamlessly.
+
+6. **Instant Updates:**
+
+- Changes made by one user are instantly reflected for all participants in the room.
 
 ## 💻 Skills
 - **Programming Languages**: JavaScript, TypeScript, PHP, Laravel
